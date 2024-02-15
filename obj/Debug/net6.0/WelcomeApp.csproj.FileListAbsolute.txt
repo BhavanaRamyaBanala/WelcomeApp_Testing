@@ -1,0 +1,15 @@
+D:\dotNet\Testing\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.exe
+D:\dotNet\Testing\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.deps.json
+D:\dotNet\Testing\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.runtimeconfig.json
+D:\dotNet\Testing\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.dll
+D:\dotNet\Testing\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.pdb
+D:\dotNet\Testing\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet\Testing\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfoInputs.cache
+D:\dotNet\Testing\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfo.cs
+D:\dotNet\Testing\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.csproj.CoreCompileInputs.cache
+D:\dotNet\Testing\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.sourcelink.json
+D:\dotNet\Testing\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.dll
+D:\dotNet\Testing\WelcomeApp\WelcomeApp\obj\Debug\net6.0\refint\WelcomeApp.dll
+D:\dotNet\Testing\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.pdb
+D:\dotNet\Testing\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.genruntimeconfig.cache
+D:\dotNet\Testing\WelcomeApp\WelcomeApp\obj\Debug\net6.0\ref\WelcomeApp.dll
